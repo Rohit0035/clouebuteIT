@@ -183,7 +183,7 @@ const FooterOne = () => {
       </footer>
 
       <div className="whatsicon">
-        <Link to="https://api.whatsapp.com/send/?phone=7470391093&text&type=phone_number&app_absent=0">
+        <Link to="https://api.whatsapp.com/send/?phone=9691982113&text&type=phone_number&app_absent=0">
           <FaWhatsapp size={45} />
         </Link>
       </div>
