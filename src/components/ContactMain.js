@@ -47,7 +47,7 @@ const ContactMain = () => {
                 </div>
                 <div className='media-body'>
                   <h5>Contacts us</h5>
-                  <h6> +91 7067994744, 7470391093</h6>
+                  <h6> +91 9691982113</h6>
                 </div>
               </div>
             </div>
@@ -58,7 +58,7 @@ const ContactMain = () => {
                 </div>
                 <div className='media-body'>
                   <h5> Email</h5>
-                  <h6>Contact@clouebytes.com </h6>
+                  <h6>info@gmail.com </h6>
                 </div>
               </div>
             </div>
@@ -69,7 +69,7 @@ const ContactMain = () => {
                 </div>
                 <div className='media-body'>
                   <h5>Location</h5>
-                  <h6>401/206  sky residency, rani baag main, Khandwa road Indore, Madhya Pradesh</h6>
+                  <h6>Indore, Madhya Pradesh</h6>
                 </div>
               </div>
             </div>

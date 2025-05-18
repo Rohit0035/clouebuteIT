@@ -41,22 +41,22 @@ const FooterOne = () => {
                   </p>
                   <ul className='social-media'>
                     <li>
-                      <a href='https://www.facebook.com/share/EttKVKC1FpbzVYSE/?mibextid=qi2'>
+                      <a href=''>
                         <FaFacebookF />
                       </a>
                     </li>
                     <li>
-                      <a href='https://twitter.com/i/flow/login?redirect_after_login=%2Fclouebytes'>
+                      <a href=''>
                         <FaTwitter />
                       </a>
                     </li>
                     <li>
-                      <a href='https://www.instagram.com/clouebytes/?igsh=MWQzZ25weDhucnozMA%3D%3D'>
+                      <a href=''>
                         <FaInstagram />
                       </a>
                     </li>
                     <li>
-                      <a href='https://www.linkedin.com/company/clouebytes/'>
+                      <a href=''>
                         <FaLinkedinIn />
                       </a>
                     </li>
@@ -138,7 +138,7 @@ const FooterOne = () => {
                       <div className='media-body align-self-center'>
                         <div className='post-info mb-2'>
                           <FaPhone size={25} />
-                          <span>(91) 7067994744, 7470391093</span>
+                          <span>(91) 9691982113</span>
                         </div>
                       </div>
                     </div>
@@ -148,7 +148,7 @@ const FooterOne = () => {
                       <div className='media-body align-self-center'>
                         <div className='post-info mb-2'>
                           <IoMailOpenOutline size={25} />
-                          <span> Contact@clouebytes.com </span>
+                          <span>Info@gmail.com </span>
                         </div>
                       </div>
                     </div>
@@ -159,11 +159,9 @@ const FooterOne = () => {
                         <div className='post-infopr-0 mb-2'>
                           <div className='post-info mb-2'>
                             <IoLocationOutline size={25} />
-                            <span> 401/206  sky residency, rani baag main </span>
+                            <span> Indore </span>
                           </div>
-                          <p style={{ color: '#fff', fontSize: '14px' }}>
-                            Khandwa road Indore, Madhya Pradesh
-                          </p>
+                          <p style={{ color: '#fff', fontSize: '14px' }}></p>
                         </div>
                       </div>
                     </div>
@@ -177,7 +175,7 @@ const FooterOne = () => {
           <div className='container'>
             <div className='row'>
               <div className='col-md-12 text-center'>
-                <p>© CLOUEBYTES 2024 | All Rights Reserved</p>
+                <p>© CLOUEBYTES 2025 | All Rights Reserved</p>
               </div>
             </div>
           </div>
