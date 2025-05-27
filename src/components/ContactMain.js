@@ -9,10 +9,10 @@ const ContactMain = () => {
     // Please See Documentation for more information
     emailjs
       .sendForm(
-        "service_saggk1s", //YOUR_SERVICE_ID
-        "template_h1zy6gr", //YOUR_TEMPLATE_ID
+        "service_m2kuscw", //YOUR_SERVICE_ID
+        "template_o0t3b34", //YOUR_TEMPLATE_ID
         form.current,
-        "HzqxBhAngK466cw6f" //YOUR_PUBLIC_KEY
+        "0xu-DdBfKRlaaGfoV" //YOUR_PUBLIC_KEY
       )
       .then(
         (result) => {
@@ -58,7 +58,7 @@ const ContactMain = () => {
                 </div>
                 <div className='media-body'>
                   <h5> Email</h5>
-                  <h6>info@gmail.com </h6>
+                  <h6>clouebytes2025@gmail.com </h6>
                 </div>
               </div>
             </div>
@@ -128,7 +128,7 @@ const ContactMain = () => {
                     <select
                       className="single-input-inner"
                       style={{ width: "100%", padding: '10px 5px' }}
-                      name='message'
+                      name='service'
                     >
                       <option>--Select Service--</option>
                       <option>Website</option>

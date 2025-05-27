@@ -148,7 +148,7 @@ const FooterOne = () => {
                       <div className='media-body align-self-center'>
                         <div className='post-info mb-2'>
                           <IoMailOpenOutline size={25} />
-                          <span>Info@gmail.com </span>
+                          <span>clouebytes2025@gmail.com </span>
                         </div>
                       </div>
                     </div>
