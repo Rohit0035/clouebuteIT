@@ -81,12 +81,7 @@ const ContactMain = () => {
           <div className='contact-page-inner bg-gray'>
             <div className='section-title mb-4 pb-2'>
               <h2 className='title'>Request a quote  </h2>
-              <p className='content mb-0'>
-                For your car we will do everything advice, repairs and
-                maintenance. We are the some preferred choice by many car owners
-                because our experience and knowledge is selfe vident.For your
-                car we will do som everything.
-              </p>
+             
             </div>
             <form ref={form} onSubmit={sendEmail}>
               <div className='row'>
