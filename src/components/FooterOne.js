@@ -138,7 +138,7 @@ const FooterOne = () => {
                       <div className='media-body align-self-center'>
                         <div className='post-info mb-2'>
                           <FaPhone size={25} />
-                          <span>(91) 9691982113</span>
+                          <span>(91) 9691982117</span>
                         </div>
                       </div>
                     </div>
@@ -148,7 +148,7 @@ const FooterOne = () => {
                       <div className='media-body align-self-center'>
                         <div className='post-info mb-2'>
                           <IoMailOpenOutline size={25} />
-                          <span>clouebytes2025@gmail.com </span>
+                          <span>clouebyts2025@gmail.com </span>
                         </div>
                       </div>
                     </div>
@@ -183,7 +183,7 @@ const FooterOne = () => {
       </footer>
 
       <div className="whatsicon">
-        <Link to="https://api.whatsapp.com/send/?phone=9691982113&text&type=phone_number&app_absent=0">
+        <Link to="https://api.whatsapp.com/send/?phone=9691982117&text&type=phone_number&app_absent=0">
           <FaWhatsapp size={45} />
         </Link>
       </div>

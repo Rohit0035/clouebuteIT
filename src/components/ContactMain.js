@@ -47,7 +47,7 @@ const ContactMain = () => {
                 </div>
                 <div className='media-body'>
                   <h5>Contacts us</h5>
-                  <h6> +91 9691982113</h6>
+                  <h6> +91 9691982117</h6>
                 </div>
               </div>
             </div>
@@ -58,7 +58,7 @@ const ContactMain = () => {
                 </div>
                 <div className='media-body'>
                   <h5> Email</h5>
-                  <h6>clouebytes2025@gmail.com </h6>
+                  <h6>clouebyts2025@gmail.com </h6>
                 </div>
               </div>
             </div>
